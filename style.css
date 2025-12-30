@@ -14,7 +14,7 @@ body{
 section{
     /* border: 1px solid black; */
     display: flex;
-    height: 150px; width: 500px;
+    height: 150px; width: 600px;
     border-radius: 1em;
     overflow: hidden;
     color: rgb(194, 194, 194);
@@ -27,7 +27,7 @@ div{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%; width: 5000px;
+    height: 100%;
     flex: 1;
     transition: flex 1s ease-in-out;
 }
